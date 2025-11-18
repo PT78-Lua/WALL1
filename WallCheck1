@@ -1,3 +1,2 @@
 api:notify("CheckPoint1")
-task.wait(3);
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/da1202f1b541690c6bae9f0c5df42079d855b0bd3183099a9948f044bf4e2ce2/download"))()
