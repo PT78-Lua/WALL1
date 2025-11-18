@@ -1,2 +1,3 @@
 api:notify("CheckPoint1")
+api:notify("This takes about 10-20 seconds please DO NOT ATTEMPT TO LOAD AGAIN")
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/65d98d4acd7eeb7665f39d078b04b971f1568f9cb88a8acc06b2d42ccf1c22b9/download"))()
